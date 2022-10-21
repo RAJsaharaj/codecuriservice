@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/codecuriservice/static/css/main.4fd7ba17.css",
+    "main.js": "/codecuriservice/static/js/main.ada8fd16.js",
+    "static/js/787.50f0c307.chunk.js": "/codecuriservice/static/js/787.50f0c307.chunk.js",
+    "static/media/ai.jpg": "/codecuriservice/static/media/ai.e9630b4a3909839ce404.jpg",
+    "static/media/contact1.png": "/codecuriservice/static/media/contact1.983c0f365fe7e1220fa6.png",
+    "static/media/hero.png": "/codecuriservice/static/media/hero.84c91e43c58742dc0091.png",
+    "index.html": "/codecuriservice/index.html",
+    "main.4fd7ba17.css.map": "/codecuriservice/static/css/main.4fd7ba17.css.map",
+    "main.ada8fd16.js.map": "/codecuriservice/static/js/main.ada8fd16.js.map",
+    "787.50f0c307.chunk.js.map": "/codecuriservice/static/js/787.50f0c307.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fd7ba17.css",
+    "static/js/main.ada8fd16.js"
+  ]
+}
